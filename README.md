@@ -8,7 +8,9 @@ mvn clean install
 ```
 
 # Run
+```
 java -jar target/burger.jar
+```
 
 # Usage
 You can get a burger using http GET
